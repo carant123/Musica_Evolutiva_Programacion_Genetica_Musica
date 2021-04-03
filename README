@@ -1,3 +1,7 @@
+Cruzado Padilla, Carlos Antonio
+Gamarra Moreno, Abraham Esteban
+García Rivas Plata, Cecilia Edith
+
 Se ha utilizado la programación genética y redes neuronales para crear música. La representación para las notas musicales utiliza la notación americana y 
 el cromosoma es un árbol para el algoritmo de programación genética. Se ha utilizado la red neuronal para entrenar el fitness de la melodía. 
 La programación genética realiza la selección el cruce y la mutación y utiliza el fitness otorgado por la red neuronal recurrente. 
